@@ -24,7 +24,7 @@
 """
 
 
-# noinspection PyPep8Naming
+# noinspection PyPep8Namingasdasd
 def classFactory(iface):  # pylint: disable=invalid-name
     """Load OpenEO class from file OpenEO.
 

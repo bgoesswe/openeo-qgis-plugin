@@ -1,5 +1,5 @@
 # This file contains metadata for your plugin.
-
+asdasdasdsa
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
